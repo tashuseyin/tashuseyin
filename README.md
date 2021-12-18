@@ -16,4 +16,5 @@
 
 ![tashuseyin's github stats](https://github-readme-stats.vercel.app/api?username=tashuseyin&show_icons=true&line_height=25)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashuseyin&layout=compact&hide=html" alt="tashuseyin" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tashuseyin&" alt="tashuseyin" /></p>
