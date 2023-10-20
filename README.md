@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kotlin and Jetpack Compose
 - 📫 How to reach me htas767@gmail.com
 
-![polataydinn's github stats](https://github-readme-stats.vercel.app/api?username=polataydinn&show_icons=true&line_height=25)
+![tashuseyin's github stats](https://github-readme-stats.vercel.app/api?username=tashuseyin&show_icons=true&line_height=25)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashuseyin&layout=compact&hide=html" alt="tashuseyin" /></p>  
 
 <h3 align="left">Connect with me:</h3>
